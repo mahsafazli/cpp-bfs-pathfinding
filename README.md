@@ -88,7 +88,7 @@ On Windows PowerShell:
 
 The program displays the BFS exploration and the resulting path from the initial location to the goal.
 
-![Program Output](images/program-output.png)
+![Program Output](images/program-output-.png)
 
 ## Coursework
 
