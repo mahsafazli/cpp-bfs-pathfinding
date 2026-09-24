@@ -1,6 +1,5 @@
-//Course info : COMP 4475 FA - Topics Artificial Intelligence
-//Assignment 1 - Part 2 (Search Algorithm)
-//Student : Mahsa Fazli - 1271287
+//Course info :Topics Artificial Intelligence
+//Student : Mahsa Fazli 
 
 
 #include <iostream>
