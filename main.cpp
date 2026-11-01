@@ -1,5 +1,5 @@
-//Course info :Topics Artificial Intelligence
-//Student : Mahsa Fazli 
+
+//Author : Mahsa Fazli 
 
 
 #include <iostream>
